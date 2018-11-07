@@ -1,0 +1,24 @@
+:filename: manual/03_task_exportEA.adoc
+ifndef::imagesdir[:imagesdir: ../images]
+
+= exportEA
+
+include::feedback.adoc[]
+
+image::ea/Manual/exportEA.png[]
+
+TIP: Blog-Posts: https://rdmueller.github.io/jria2eac/[JIRA to Sparx EA], https://rdmueller.github.io/sparx-ea/[Did you ever wish you had better Diagrams?]
+
+== Source
+
+.build.gradle
+[source,groovy]
+----
+include::../../../scripts/exportEA.gradle[tags=exportEA]
+----
+
+.scripts/exportEAP.vbs
+[source]
+----
+include::../../../scripts/exportEAP.vbs[]
+----

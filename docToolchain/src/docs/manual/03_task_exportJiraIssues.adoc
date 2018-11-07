@@ -1,0 +1,18 @@
+:filename: manual/03_task_exportJiraIssues.adoc
+ifndef::imagesdir[:imagesdir: ../images]
+
+= exportJiraIssues
+
+include::feedback.adoc[]
+
+image::ea/Manual/exportJiraIssues.png[]
+
+TIP: Blog-Post: https://rdmueller.github.io/Jira/[Living Documents for Agile Projects]
+
+== Source
+
+.exportJiraIssues.gradle
+[source,groovy]
+----
+include::../../../scripts/exportJiraIssues.gradle[tags=exportJiraIssues]
+----
