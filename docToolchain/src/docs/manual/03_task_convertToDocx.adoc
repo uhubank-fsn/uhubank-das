@@ -1,0 +1,18 @@
+ifndef::imagesdir[:imagesdir: ../images]
+:filename: manual/03_task_convertToDocx.adoc
+
+= convertToDocx
+
+include::feedback.adoc[]
+
+image::ea/Manual/convertToDocx.png[]
+
+TIP: Blog-Post: https://rdmueller.github.io/create-docx/[Render AsciiDoc to docx (MS Word)]
+
+== Source
+
+.pandoc.gradle
+[source,groovy]
+----
+include::../../../scripts/pandoc.gradle[tags=convertToDocx]
+----
