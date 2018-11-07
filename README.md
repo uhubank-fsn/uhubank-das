@@ -1,2 +1,3 @@
-# uhubank-docs
-Repositório de toda a documentação do sistema bancário UhuBank
+# uhubank-das
+Repositório do documento de arquitetura do sistema bancário UhuBank
+
