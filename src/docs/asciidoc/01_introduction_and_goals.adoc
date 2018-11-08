@@ -1,5 +1,5 @@
 [[section-introduction-and-goals]]
-== Introduction and Goals
+== Introdução e Objetivos
 
 [role="arc42help"]
 ****
@@ -10,7 +10,7 @@ Describes the relevant requirements and the driving forces that software archite
 * relevant stakeholders and their expectations
 ****
 
-=== Requirements Overview
+=== Visão Geral dos Requisitos
 
 [role="arc42help"]
 ****
@@ -30,7 +30,7 @@ If requirements documents exist this overview should refer to these documents.
 Keep these excerpts as short as possible. Balance readability of this document with potential redundancy w.r.t to requirements documents.
 ****
 
-=== Quality Goals
+=== Metas de Qualidade
 
 [role="arc42help"]
 ****
