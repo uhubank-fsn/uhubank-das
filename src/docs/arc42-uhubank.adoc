@@ -3,9 +3,9 @@
 //
 // ====================================
 
-= image:arc42-logo.png[arc42] Template
+= image:arc42-logo.png[arc42] UhuBank - Documento de Arquitetura de Software
 // toc-title definition MUST follow document title without blank line!
-:toc-title: Table of Contents
+:toc-title: Sumário
 
 //additional style for arc42 help callouts
 ifdef::basebackend-html[]
@@ -20,9 +20,9 @@ ifdef::basebackend-html[]
 }
 </style>
 ++++
-endif::basebackend-html[asciidoc]
+endif::basebackend-html[]
 
-// configure EN settings for asciidoc
+// configure PT-BR settings for asciidoc
 include::asciidoc/config.adoc[]
 
 

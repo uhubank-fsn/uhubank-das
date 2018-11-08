@@ -1,6 +1,6 @@
-// asciidoc settings for EN (English)
+// asciidoc settings for PT-BR (Português Brasil)
 // ==================================
-:toc-title: table of contents
+:toc-title: Sumário
 
 // enable table-of-contents
 :toc:
